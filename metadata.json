@@ -1,0 +1,6 @@
+{
+  "name": "Phoenix PocketBiz AI",
+  "description": "Mobile-friendly business management application for Nigerian entrepreneurs with sales, expense, customer debt, inventory, and profit tracking in Nigerian Naira (₦).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
